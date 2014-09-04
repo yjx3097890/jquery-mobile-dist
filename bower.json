@@ -1,0 +1,28 @@
+{
+  "name": "jquery-mobile-dist",
+  "version": "0.0.1",
+  "authors": [
+    "yanjixian <315644588@qq.com>"
+  ],
+  "description": "整合好的源文件",
+  "main": "[jquery.mobile.css, jquery.mobile.js]",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquery-mobile"
+  ],
+  "license": "MIT",
+  "homepage": "yanjixian.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+		"jquery": "1.11.1",
+		"jquery-ui": "jquery/jquery-ui#c0ab71056b936627e8a7821f03c044aec6280a40"
+	}
+}
